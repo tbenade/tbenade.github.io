@@ -15,7 +15,7 @@ markdown: kramdown
 kramdown:
   input: GFM
 
-remote_theme: minimal-mistakes-jekyll
+remote_theme: mmistakes/minimal-mistakes
 
 exclude: [vendor]
 
