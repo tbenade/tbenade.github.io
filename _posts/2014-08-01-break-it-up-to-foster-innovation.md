@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title:  "Break it up to foster innovation"
 date:   2014-08-01 14:14:01
 excerpt: "Take the opportunity to motivate innovation through simplification."

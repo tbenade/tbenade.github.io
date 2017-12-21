@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title:  "Getting Ionic and Android Studio up and running on OS X Mavericks"
 excerpt: "The absolute noob guide to getting up and running with Ionic Framework"
 date:   2014-07-18 12:47:01
@@ -50,7 +50,7 @@ Reload your .bash_profile
 $ . ~/.bash_profile
 ```
 
-## Create an AVD (Android Virtual Device) 
+## Create an AVD (Android Virtual Device)
 
 This is the emulator to be used for development. You can use the GUI or the command line. First list the possible devices based on installed SDK's. Then create it. More detailed instructions on creating AVD's
 

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title:  "Why can't developers sell?"
 date:   2013-07-15 21:20:01
 excerpt: "Its your career its time to man up and own it."
@@ -31,13 +31,13 @@ It needs to all happen and happen immediately. Tell me why what you did just yes
 
 The chance encounter in a lift
 
-You get in a lift and out the corner of your eye you notice my famous face. Wow can it be true here you are with five floors of lift journey time to tell me how fantastic you are. 
+You get in a lift and out the corner of your eye you notice my famous face. Wow can it be true here you are with five floors of lift journey time to tell me how fantastic you are.
 
-Do you start with in "1994 I attended a school camp where I excelled at fire making and at an early age displayed a natural affinity with problem solving". Barf!! 
+Do you start with in "1994 I attended a school camp where I excelled at fire making and at an early age displayed a natural affinity with problem solving". Barf!!
 
 Hell no, you would rather tell me how you ripped the guts out of an old legacy application and totally re-crafted it in NodeJS over the weekend because you were bored and you think NodeJS is going to change the world. Right or wrong that sentence tells me you have an opinion are willing to have a go and truly love what you do. Get that across and do it quickly.
 
-# In closing. 
+# In closing.
 
 The world has gone social. Especially if you have a career in web development have a web presence. At a minimum have a LinkedIn profile. If you cannot have a public page on the web talking about how great you are at your job what are you hiding?
 

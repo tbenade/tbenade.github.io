@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title:  "The value of context in self-managed teams"
 date:   2014-02-05 19:19:01
 excerpt: "Get out the way but be sure to set some context"

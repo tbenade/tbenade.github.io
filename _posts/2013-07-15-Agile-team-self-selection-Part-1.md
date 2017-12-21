@@ -1,10 +1,10 @@
 ---
-layout: post
+layout: single
 title:  "Agile team self selection Part-1"
 date:   2013-07-15 21:41:01
 comments: true
 excerpt: "Excited or anxious? An experiment ni team self-selection"
-tags: 
+tags:
 ---
 
 # Excited or Anxious?
@@ -15,7 +15,7 @@ We are going to give the developers the opportunity to create their own fixed te
 
 Working in a shared services department of about 40 developers we are constantly battling the multiple demand channels of a billion dollar organisation.
 
-Problems include multiple product owners, backlogs, priorities, styles and technologies. Cross-skilling is nigh on impossible as our technology stack is broad and specialised. 
+Problems include multiple product owners, backlogs, priorities, styles and technologies. Cross-skilling is nigh on impossible as our technology stack is broad and specialised.
 
 Historically we have compiled and disassembled sprint teams to meet demand but over time this process has become unwieldy and calls for endless management, grooming and prioritisation negotiation. Last time I checked we developers hated meetings.
 
@@ -27,7 +27,7 @@ Now I am happy to entertain the fact we have been insanely busy the past year an
 
 # Tomorrow is the big day.
 
-As a management team we have spent months debating how and what. The plan is to put everyone in a big room and literally tell tell they cant leave until we have formed 4 new fixed teams that will work together for the foreseeable future. There will be a few rules but they will be as non-restrictive as possible. Other than the fact the teams will need to have a certain make-up. 
+As a management team we have spent months debating how and what. The plan is to put everyone in a big room and literally tell tell they cant leave until we have formed 4 new fixed teams that will work together for the foreseeable future. There will be a few rules but they will be as non-restrictive as possible. Other than the fact the teams will need to have a certain make-up.
 
 Example Team A should = (3 web developers, 2 CRM experts, 1 QA, 1 BA, 1 Middleware)
 
@@ -40,7 +40,3 @@ Wow my dream of what being a truly self-managed agile team may be realised. Oops
 My number one take away from YOW last year was "hey managers get out of the way!" no point buying the ticket if you see no value in the content.
 
 Lastly thank you to Marcel van Hove for giving me the courage to take all I have toiled so hard to create in the past 3 years and throw it up in the air and see how it lands.
-
-
-
-
