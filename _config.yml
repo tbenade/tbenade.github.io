@@ -1,6 +1,6 @@
 # Site settings
 title: An Iteration
-email: 
+email:
 description: > # this means to ignore newlines until "baseurl:"
   Simple fellow taking a real simple approach to a sometimes challenging problem.
 baseurl: "" # the subpath of your site, e.g. /blog/
@@ -15,8 +15,9 @@ markdown: kramdown
 kramdown:
   input: GFM
 
+remote_theme: minimal-mistakes-jekyll
+
 exclude: [vendor]
 
 sass:
   style: compressed
-
