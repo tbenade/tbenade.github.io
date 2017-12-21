@@ -1,0 +1,22 @@
+# Site settings
+title: An Iteration
+email: 
+description: > # this means to ignore newlines until "baseurl:"
+  Simple fellow taking a real simple approach to a sometimes challenging problem.
+baseurl: "" # the subpath of your site, e.g. /blog/
+twitter_username: terrencebenade
+github_username:  tbenade
+ga_tracking_code: UA-56778355-1
+timezone: Australia/Melbourne
+
+# Build settings
+markdown: kramdown
+
+kramdown:
+  input: GFM
+
+exclude: [vendor]
+
+sass:
+  style: compressed
+
